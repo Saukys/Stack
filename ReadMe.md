@@ -1,0 +1,1 @@
+Tai yra ADT Stekas realizuotas su tiesiniu sąrašu.
